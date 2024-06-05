@@ -1,0 +1,23 @@
+{
+  "name": "book-scraper",
+  "version": "1.0.0",
+  "description": "scraper sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/searomx/app-scraper.git"
+  },
+  "author": "Flavio C Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/searomx/app-scraper/issues"
+  },
+  "homepage": "https://github.com/searomx/app-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^22.10.0"
+  }
+}
